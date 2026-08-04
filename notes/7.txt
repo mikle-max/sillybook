@@ -1,0 +1,9 @@
+im editing 7th file 
+
+in branch editing --not-- master
+
+did you got it?
+
+so this is modified, then i should commit them
+
+after that i'll merge them
