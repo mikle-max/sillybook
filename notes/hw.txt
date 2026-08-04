@@ -1,10 +1,6 @@
 
 hello world
 
-sdf
-
-qwert
-
 commit one in new branch
 
 this is commit 2 on new branch
