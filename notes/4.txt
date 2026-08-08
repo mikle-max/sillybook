@@ -5,3 +5,9 @@ edit
 txt
 
 hi
+
+as issuse said
+
+i'm adding lines 
+
+to 4.txt
